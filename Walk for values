@@ -1,0 +1,189 @@
+<!DOCTYPE html><html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Walk with Velan</title>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;800&display=swap" rel="stylesheet">
+<style>
+:root{
+  --saffron:#f57c00;
+  --saffron-light:#ffb74d;
+  --white:#ffffff;
+  --gold:#d4af37;
+  --bg:#fff8f0;
+}
+*{box-sizing:border-box;}
+body{
+  margin:0;
+  font-family:'Poppins',sans-serif;
+  background:var(--bg);
+  color:#333;
+  line-height:1.7;
+}
+header{
+  padding:80px 20px 60px;
+  text-align:center;
+  background:linear-gradient(180deg,var(--saffron),var(--saffron-light));
+  color:white;
+}
+header h1{
+  font-size:3.2rem;
+  font-weight:800;
+  margin:20px 0 0;
+}
+header h2{
+  font-size:1.1rem;
+  font-weight:400;
+}
+section{
+  padding:70px 20px;
+  max-width:1100px;
+  margin:auto;
+}
+.section-title{
+  text-align:center;
+  font-size:2.2rem;
+  font-weight:700;
+  color:var(--saffron);
+  margin-bottom:30px;
+}
+.card{
+  background:white;
+  border-radius:20px;
+  padding:40px;
+  margin-bottom:40px;
+  box-shadow:0 10px 30px rgba(0,0,0,0.08);
+}
+.route-step{
+  border-left:5px solid var(--saffron);
+  padding-left:20px;
+  margin-bottom:25px;
+}
+.highlight{
+  color:var(--saffron);
+  font-weight:600;
+}
+.uniform-box{
+  background:linear-gradient(135deg,var(--saffron),var(--saffron-light));
+  color:white;
+  border-radius:20px;
+  padding:40px;
+}
+.uniform-box ul{padding-left:20px;}
+.uniform-box li{margin-bottom:10px;}
+.cta{
+  text-align:center;
+}
+.cta button{
+  background:var(--saffron);
+  color:white;
+  border:none;
+  padding:15px 30px;
+  border-radius:30px;
+  font-size:1rem;
+  font-weight:600;
+  margin:10px;
+  cursor:pointer;
+  transition:0.3s;
+}
+.cta button:hover{transform:scale(1.05);}
+form input, form select{
+  width:100%;
+  padding:12px;
+  margin-bottom:15px;
+  border-radius:10px;
+  border:1px solid #ddd;
+}
+form label{font-weight:600;}
+.disclaimer{
+  font-size:0.85rem;
+  background:#fff3e0;
+  padding:20px;
+  border-radius:15px;
+  margin-top:20px;
+}
+footer{
+  text-align:center;
+  padding:40px 20px;
+  background:#111;
+  color:#ccc;
+}
+.peacock-divider{
+  text-align:center;
+  font-size:1.5rem;
+  color:var(--gold);
+  margin:40px 0;
+}
+</style>
+</head>
+<body><header>
+  <h2>Direshan’s Garlands together with the Skanda Mayura Foundation brings to you</h2>
+  <h1>WALK WITH VELAN!</h1>
+</header><section>
+  <h2 class="section-title">A Walk of Bhakti, Joy & Youthful Energy</h2>
+  <div class="card">
+    <p><strong>Walk with Velan</strong> is not just a walk — it is a moving celebration of devotion, rhythm, and unity. As we journey together in preparation for <span class="highlight">Thaipusam and Kavady</span>, our footsteps become prayer, our voices become offering, and our movement becomes bhakti.</p>
+    <p>With music, bhajans, chanting, dancing, and vibrant youth energy, we walk as one collective body — hearts aligned, spirits uplifted — offering our joy and gratitude to <strong>Velan</strong>.</p>
+  </div>  <div class="peacock-divider">🦚 ✦ 🏵 ✦ 🦚</div>  <h2 class="section-title">Paadha Yathirai Route</h2>
+  <div class="card">
+    <div class="route-step">
+      <strong>Starting Point:</strong><br>
+      Phoenix Thamizh Prathanay Kazhagam<br>
+      164 Fernham Drive, Phoenix
+    </div>
+    <div class="route-step">
+      <strong>Second Stop:</strong><br>
+      Sathie Sanmarka Sungum<br>
+      20 Featherstone Place, Whetstone, Phoenix
+    </div>
+    <div class="route-step">
+      <strong>Final Destination:</strong><br>
+      Stri Muruga Kovil<br>
+      2 Esselen Crescent
+    </div>
+    <p>This sacred Paadha Yathirai flows through our community with devotion, music, movement, and shared joy — every step an offering.</p>
+  </div>  <div class="peacock-divider">🏵 ✦ 🦚 ✦ 🏵</div>  <h2 class="section-title">Marigold Offering</h2>
+  <div class="card">
+    <p>At the beginning of the walk, every participant will receive a <strong>marigold flower</strong> — bright, humble, and filled with meaning.</p>
+    <p>Carried throughout the journey, the marigold becomes a symbol of devotion, gratitude, and unity. At the end of the walk, together we will offer it at the <strong>Batu Caves replica statue</strong> at the Stri Muruga Kovil — one collective offering, one shared intention.</p>
+  </div>  <h2 class="section-title">Chariot Festival</h2>
+  <div class="card">
+    <p>Upon completing the walk, participants will naturally flow into the <strong>Stri Muruga Kovil Chariot Festival</strong> — continuing the celebration through tradition, worship, and community devotion.</p>
+  </div>  <h2 class="section-title">Unity & Devotional Dress Code</h2>
+  <div class="uniform-box">
+    <p><em>“When we dress alike, we walk alike. When we walk alike, we offer ourselves as one.”</em></p>
+    <ul>
+      <li>Strongly encouraged: Official <strong>Walk with Velan</strong> t-shirt</li>
+      <li>If not, a plain <strong>orange or yellow</strong> t-shirt must be worn</li>
+      <li><strong>Sunglasses are mandatory</strong> for all participants</li>
+    </ul>
+    <p>This uniformity represents discipline, unity, and collective devotion.</p>
+  </div>  <h2 class="section-title">Merchandise</h2>
+  <div class="card">
+    <p>Order your limited edition <strong>Walk with Velan</strong> tee — featuring a modern, minimalist Murugan, Vel, and peacock-inspired design. Youthful streetwear, devotional at heart.</p>
+    <p><strong>Colours:</strong> Orange & White<br><strong>Sizes:</strong> XS – XXL</p>
+    <div class="cta">
+      <button>Order Your Walk with Velan Tee</button>
+    </div>
+  </div>  <h2 class="section-title">Registration & RSVP</h2>
+  <div class="card">
+    <form onsubmit="return validateForm()">
+      <label>Full Name</label>
+      <input type="text" required>
+      <label>Mobile Number</label>
+      <input type="tel" required>
+      <label>Number of People Attending</label>
+      <input type="number" min="1" required>
+      <label>Would you like to order a t-shirt?</label>
+      <select>
+        <option>No</option>
+        <option>Yes</option>
+      </select>
+      <div class="discl7aimer">
+        <p><strong>Disclaimer:</strong><br>
+        Participation in Walk with Velan is entirely voluntary. All participants take part at their own risk. Direshan’s Garlands and the Skanda Mayura Foundation, including their organisers, volunteers, and affiliates, accept no responsibility or liability for any injury, loss, or damage sustained before, during, or after the walk.</p>
+        <p>Participants are responsible for their own health, safety, and personal belongings and are encouraged to walk within their own physical limits.</p>
+        <label><input type="checkbox" id="agree"> I acknowledge and agree</label>
+      </div>
+      <div class="cta">
+        <button type="submit">Register to
